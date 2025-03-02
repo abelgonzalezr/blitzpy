@@ -6,8 +6,8 @@ Thank you for your interest in contributing to BlitzPy! We welcome contributions
 
 There are many ways to contribute to BlitzPy:
 
-1. **Reporting Bugs**: If you find a bug, please report it using our [bug report template](https://github.com/yourusername/blitzpy/issues/new?template=bug_report.md).
-2. **Suggesting Features**: Have an idea for a new feature? Use our [feature request template](https://github.com/yourusername/blitzpy/issues/new?template=feature_request.md).
+1. **Reporting Bugs**: If you find a bug, please report it using our [bug report template](https://github.com/abelgonzalezr/blitzpy/issues/new?template=bug_report.md).
+2. **Suggesting Features**: Have an idea for a new feature? Use our [feature request template](https://github.com/abelgonzalezr/blitzpy/issues/new?template=feature_request.md).
 3. **Improving Documentation**: Help us improve our documentation by fixing typos, adding examples, or clarifying instructions.
 4. **Writing Code**: Contribute code improvements, bug fixes, or new features.
 
