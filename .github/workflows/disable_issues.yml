@@ -1,0 +1,17 @@
+name: Auto Close Issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  close-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close Issue
+        uses: peter-evans/close-issue@v2
+        with:
+          comment: |
+            This repository does not accept issues or feature requests. This is a proprietary project.
+            
+            Thank you for your understanding. 
