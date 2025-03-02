@@ -1,47 +1,38 @@
-# Contributing to BlitzPy
+# BlitzPy Contribution Guide
 
-Thank you for your interest in contributing to BlitzPy! We welcome contributions from everyone, regardless of experience level.
+Thank you for your interest in BlitzPy. This document explains how you can contribute to the project.
 
-## Ways to Contribute
+## Contribution Policy
 
-There are many ways to contribute to BlitzPy:
+BlitzPy is a proprietary software developed and maintained by Abel González. **We do not accept direct code contributions** at this time.
 
-1. **Reporting Bugs**: If you find a bug, please report it using our [bug report template](https://github.com/abelgonzalezr/blitzpy/issues/new?template=bug_report.md).
-2. **Suggesting Features**: Have an idea for a new feature? Use our [feature request template](https://github.com/abelgonzalezr/blitzpy/issues/new?template=feature_request.md).
-3. **Improving Documentation**: Help us improve our documentation by fixing typos, adding examples, or clarifying instructions.
-4. **Writing Code**: Contribute code improvements, bug fixes, or new features.
+However, we greatly value:
 
-## Getting Started
+- **Bug reports**: If you find a problem, please report it using our [bug report template](https://github.com/abelgonzalezr/blitzpy/issues/new?template=bug_report.md).
+- **Feature requests**: If you have ideas to improve BlitzPy, please share them using our [feature request template](https://github.com/abelgonzalezr/blitzpy/issues/new?template=feature_request.md).
+- **General feedback**: Your feedback on usability, user experience, and functionality is very valuable to us.
 
-1. **Fork the Repository**: Start by forking the repository to your GitHub account.
-2. **Clone the Repository**: Clone your fork to your local machine.
-3. **Create a Branch**: Create a branch for your changes.
-4. **Make Changes**: Make your changes to the codebase.
-5. **Test Your Changes**: Ensure your changes work as expected.
-6. **Submit a Pull Request**: Submit a pull request from your branch to our main repository.
+## Reporting Process
 
-## Code Style Guidelines
+1. **Check existing issues**: Before creating a new issue, please check if a similar one already exists.
+2. **Use the templates**: Use the provided templates for bug reports and feature requests.
+3. **Be specific**: Provide clear and specific details, including steps to reproduce the issues when possible.
+4. **Be respectful**: Maintain a professional and respectful tone in all communications.
 
-- Follow the existing code style in the project.
-- Write clear, readable code with appropriate comments.
-- Include tests for new features or bug fixes.
-- Update documentation as necessary.
+## Issue Tracking
 
-## Pull Request Process
+We regularly review all reported issues and strive to respond in a timely manner. However, please note that:
 
-1. Ensure your code follows our style guidelines.
-2. Update the README.md or documentation with details of changes if appropriate.
-3. The pull request will be reviewed by maintainers, who may request changes.
-4. Once approved, your pull request will be merged.
+- Not all bug reports can be fixed immediately.
+- Not all feature requests will be implemented.
+- Decisions on which bugs to fix and which features to implement are made by the BlitzPy development team.
 
-## Community Guidelines
+## Contact
 
-- Be respectful and inclusive in your communications.
-- Help others who have questions or need assistance.
-- Focus on constructive feedback and solutions.
+If you have additional questions that are not related to bug reports or feature requests, you can contact us at [contact@blitzpy.com](mailto:contact@blitzpy.com).
 
-## Questions?
+---
 
-If you have any questions about contributing, please open an issue or reach out to the maintainers.
+Thank you for helping us improve BlitzPy with your reports and suggestions.
 
-Thank you for contributing to BlitzPy! 
+© 2024-2025 Abel González. All rights reserved.
