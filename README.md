@@ -60,14 +60,14 @@ Try BlitzPy today and enhance your Python workflow!
 ## 🛠 Issues and Suggestions
 
 If you find a **problem** or have a **suggestion**, open an **Issue** in our GitHub repository:
-- [BlitzPy Issues on GitHub](https://github.com/yourusername/blitzpy/issues)
+- [BlitzPy Issues on GitHub](https://github.com/abelgonzalezr/blitzpy/issues)
 
 We want to constantly improve BlitzPy, so your **feedback** is very important to us. If you have ideas or requests, don't hesitate to share them.
 
 ## 🔗 Useful Links
 - [Official BlitzPy Website](https://www.blitzpy.com)
 - [Installation Guide](https://www.blitzpy.com/help.html)
-- [GitHub Repository](https://github.com/yourusername/blitzpy)
+- [GitHub Repository](https://github.com/abelgonzalezr/blitzpy)
 - [FOSS Licenses and Notices](https://www.blitzpy.com/foss-notices)
 
 ---
